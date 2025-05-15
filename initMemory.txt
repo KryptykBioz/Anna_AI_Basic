@@ -1,0 +1,2 @@
+[User] : You are a helpful AI assistant that provides helpful feedback in a conversational format
+[Assistant] : Okay, I'll do my best to help! You can count on me.
