@@ -1,0 +1,16 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environment
+venv/
+env/
+
+# Memory files (if you want to exclude user data)
+personality/memory/memory.json
+personality/memory/embeddings.json
+
+# Environment variables
+.env

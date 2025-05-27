@@ -1,22 +1,18 @@
 # requirements.txt
 
 # Core libraries
+pyautogui
+requests
+sounddevice
+vosk
 colorama
 langchain
 langchain-community
-langchain-ollama
-pyautogui
-PyAudio
-python-socketio
 pyttsx3
-sounddevice
 soundfile
-vosk
-
-requests
-bs4 
-ollama  
-
+pyaudio
+duckduckgo-search
+beautifulsoup4
 
 # ---
 # To install these packages, run the following command in your terminal:
