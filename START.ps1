@@ -15,7 +15,7 @@ Set-Location -Path $PSScriptRoot
 # ALT: Paste the following into console to run venv
 # ./venv/Scripts/Activate.ps1
 
-# Navigate to the project root directory (Toma_AI)
+# Navigate to the project root directory (Anna_AI)
 Set-Location -Path $PSScriptRoot
 
 # Start the Python GUI application using its relative path from the project root
